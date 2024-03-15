@@ -1,12 +1,12 @@
-@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Lucida Calligraphy:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
 
 body {
     margin: 0px;
-    font-family: Times New Roman;
+    
 }
 
 .Potfolio-logo {
-    font-family: "Roboto";
+    font-family: "Lucida Calligraphy";
     font-size: 24px;
     font-weight: bold;
     border-style: solid;
@@ -29,7 +29,7 @@ body {
     color: #ffffff;
     font-size: 44px;
     font-weight: 500;
-    font-family: "Roboto";
+    font-family: "Lucida Calligraphy";
 }
 
 .portfolio-name {
@@ -40,7 +40,7 @@ body {
     color: #9aa5b1;
     font-size: 32px;
     font-weight: 500;
-    font-family: "Roboto";
+    font-family: "Lucida Calligraphy";
 }
 
 .contact-button {
@@ -68,21 +68,21 @@ body {
     color: #cced00;
     font-size: 24px;
     font-weight: bold;
-    font-family: "Roboto";
+    font-family: "Lucida Calligraphy";
 }
 
 .about_me {
     color: white;
     font-size: 34px;
     font-weight: bold;
-    font-family: "Roboto";
+    font-family: "Lucida Calligraphy";
 }
 
 .About_me_description {
     margin-top: 15px;
     color: #9aa5b1;
     font-size: 15px;
-    font-family: "Roboto";
+    font-family: "Lucida Calligraphy";
     font-weight: 500;
 }
 
@@ -90,7 +90,7 @@ body {
     color: white;
     font-size: 24px;
     font-weight: bold;
-    font-family: "Roboto";
+    font-family: "Lucida Calligraphy";
 }
 
 .about-me-image {
@@ -118,14 +118,14 @@ body {
 
 .portfolio-heading {
     color: #cced00;
-    font-family: "Roboto";
+    font-family: "Lucida Calligraphy";
     font-size: 24px;
     font-weight: bold;
 }
 
 .projects-heading {
     color: white;
-    font-family: "Roboto";
+    font-family: "Lucida Calligraphy";
     font-size: 28px;
     font-weight: bold;
 }
@@ -142,14 +142,14 @@ body {
     font-weight: 500;
     color: #9aa5b1;
     font-size: 14px;
-    font-family: "Roboto";
+    font-family: "Lucida Calligraphy";
 }
 
 .hotel-heading {
     margin-top: 10px;
     color: white;
     font-size: 24px;
-    font-family: "Roboto";
+    font-family: "Lucida Calligraphy";
 }
 
 .hotel-description {
@@ -157,7 +157,7 @@ body {
     font-weight: 500;
     color: #9aa5b1;
     font-size: 22px;
-    font-family: "Roboto";
+    font-family: "Lucida Calligraphy";
 }
 
 .more-item-link {
@@ -165,7 +165,7 @@ body {
     margin-top: 10px;
     font-weight: 500;
     font-size: 14px;
-    font-family: "Roboto";
+    font-family: "Lucida Calligraphy";
 }
 
 .Services-bg-container {
@@ -176,14 +176,14 @@ body {
     color: #cced00;
     font-size: 24px;
     font-weight: bold;
-    font-family: "Roboto";
+    font-family: "Lucida Calligraphy";
 }
 
 .sub-heading {
     color: white;
     font-size: 36px;
     font-weight: bold;
-    font-family: "Roboto";
+    font-family: "Lucida Calligraphy";
     margin-top: 10px;
 }
 
@@ -201,7 +201,7 @@ body {
     color: #9aa5b1;
     font-size: 24px;
     font-weight: 500;
-    font-family: "Roboto";
+    font-family: "Lucida Calligraphy";
 }
 
 .website-page {
@@ -214,7 +214,7 @@ body {
     color: white;
     font-size: 28px;
     font-weight: bold;
-    font-family: "Roboto";
+    font-family: "Lucida Calligraphy";
 }
 
 .work-done-bg-container {
@@ -233,14 +233,14 @@ body {
     color: white;
     font-size: 24px;
     font-weight: bold;
-    font-family: "Roboto";
+    font-family: "Lucida Calligraphy";
 }
 
 .card-sub-heading {
     color: white;
     font-size: 24px;
     font-weight: 500;
-    font-family: "Roboto";
+    font-family: "Lucida Calligraphy";
 }
 
 .testimonial-bg-container {
@@ -250,14 +250,14 @@ body {
 .Testimonials-heading {
     color: #cced00;
     font-size: 24px;
-    font-family: "Roboto";
+    font-family: "Lucida Calligraphy";
     font-weight: bold;
 }
 
 .Testimonials-sub-heading {
     color: white;
     font-size: 24px;
-    font-family: "Roboto";
+    font-family: "Lucida Calligraphy";
     font-weight: bold;
 }
 
@@ -268,7 +268,7 @@ body {
 
 .Testimonials-card-person-description {
     color: #9aa5b1;
-    font-family: "Roboto";
+    font-family: "Lucida Calligraphy";
     font-size: 32px;
     font-weight: 500;
 }
@@ -281,7 +281,7 @@ body {
 
 .Testimonials-card-person-name {
     color: #ffffff;
-    font-family: "Roboto";
+    font-family: "Lucida Calligraphy";
     font-size: 32px;
     font-weight: 500;
 }
@@ -298,14 +298,14 @@ body {
 
 .footer-section-name {
     color: #cced00;
-    font-family: "Roboto";
+    font-family: "Lucida Calligraphy";
     font-size: 20px;
     font-weight: bold;
 }
 
 .designation {
     color: #9aa5b1;
-    font-family: "Roboto";
+    font-family: "Lucida Calligraphy";
     font-size: 20px;
     font-weight: bold;
 }
@@ -317,7 +317,7 @@ body {
 
 .footer-section-deatails {
     color: #9aa5b1;
-    font-family: "Roboto";
+    font-family: "Lucida Calligraphy";
     font-size: 15px;
     font-weight: 500;
 }
