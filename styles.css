@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Lucida Calligraphy:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Times New Roman:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
 
 body {
     margin: 0px;
@@ -6,7 +6,7 @@ body {
 }
 
 .Potfolio-logo {
-    font-family: "Lucida Calligraphy";
+    font-family: "Times New Roman";
     font-size: 24px;
     font-weight: bold;
     border-style: solid;
@@ -29,7 +29,7 @@ body {
     color: #ffffff;
     font-size: 44px;
     font-weight: 500;
-    font-family: "Lucida Calligraphy";
+    font-family: "Times New Roman";
 }
 
 .portfolio-name {
@@ -41,7 +41,7 @@ body {
     color: #9aa5b1;
     font-size: 32px;
     font-weight: 500;
-    font-family: "Lucida Calligraphy";
+    font-family: "Times New Roman";
 }
 
 .contact-button {
@@ -69,21 +69,21 @@ body {
     color: #cced00;
     font-size: 24px;
     font-weight: bold;
-    font-family: "Lucida Calligraphy";
+    font-family: "Times New Roman";
 }
 
 .about_me {
     color: white;
     font-size: 34px;
     font-weight: bold;
-    font-family: "Lucida Calligraphy";
+    font-family: "Times New Roman";
 }
 
 .About_me_description {
     margin-top: 15px;
     color: #9aa5b1;
     font-size: 15px;
-    font-family: "Lucida Calligraphy";
+    font-family: "Times New Roman";
     font-weight: 500;
 }
 
@@ -91,7 +91,7 @@ body {
     color: white;
     font-size: 24px;
     font-weight: bold;
-    font-family: "Lucida Calligraphy";
+    font-family: "Times New Roman";
 }
 
 .about-me-image {
@@ -119,14 +119,14 @@ body {
 
 .portfolio-heading {
     color: #cced00;
-    font-family: "Lucida Calligraphy";
+    font-family: "Times New Roman";
     font-size: 24px;
     font-weight: bold;
 }
 
 .projects-heading {
     color: white;
-    font-family: "Lucida Calligraphy";
+    font-family: "Times New Roman";
     font-size: 28px;
     font-weight: bold;
 }
@@ -143,14 +143,14 @@ body {
     font-weight: 500;
     color: #9aa5b1;
     font-size: 14px;
-    font-family: "Lucida Calligraphy";
+    font-family: "Times New Roman";
 }
 
 .hotel-heading {
     margin-top: 10px;
     color: white;
     font-size: 24px;
-    font-family: "Lucida Calligraphy";
+    font-family: "Times New Roman";
 }
 
 .hotel-description {
@@ -158,7 +158,7 @@ body {
     font-weight: 500;
     color: #9aa5b1;
     font-size: 22px;
-    font-family: "Lucida Calligraphy";
+    font-family: "Times New Roman";
 }
 
 .more-item-link {
@@ -166,7 +166,7 @@ body {
     margin-top: 10px;
     font-weight: 500;
     font-size: 14px;
-    font-family: "Lucida Calligraphy";
+    font-family: "Times New Roman";
 }
 
 .Services-bg-container {
@@ -177,14 +177,14 @@ body {
     color: #cced00;
     font-size: 24px;
     font-weight: bold;
-    font-family: "Lucida Calligraphy";
+    font-family: "Times New Roman";
 }
 
 .sub-heading {
     color: white;
     font-size: 36px;
     font-weight: bold;
-    font-family: "Lucida Calligraphy";
+    font-family: "Times New Roman";
     margin-top: 10px;
 }
 
@@ -202,7 +202,7 @@ body {
     color: #9aa5b1;
     font-size: 24px;
     font-weight: 500;
-    font-family: "Lucida Calligraphy";
+    font-family: "Times New Roman";
 }
 
 .website-page {
@@ -215,7 +215,7 @@ body {
     color: white;
     font-size: 28px;
     font-weight: bold;
-    font-family: "Lucida Calligraphy";
+    font-family: "Times New Roman";
 }
 
 .work-done-bg-container {
@@ -234,14 +234,14 @@ body {
     color: white;
     font-size: 24px;
     font-weight: bold;
-    font-family: "Lucida Calligraphy";
+    font-family: "Times New Roman";
 }
 
 .card-sub-heading {
     color: white;
     font-size: 24px;
     font-weight: 500;
-    font-family: "Lucida Calligraphy";
+    font-family: "Times New Roman";
 }
 
 .testimonial-bg-container {
@@ -251,14 +251,14 @@ body {
 .Testimonials-heading {
     color: #cced00;
     font-size: 24px;
-    font-family: "Lucida Calligraphy";
+    font-family: "Times New Roman";
     font-weight: bold;
 }
 
 .Testimonials-sub-heading {
     color: white;
     font-size: 24px;
-    font-family: "Lucida Calligraphy";
+    font-family: "Times New Roman";
     font-weight: bold;
 }
 
@@ -269,7 +269,7 @@ body {
 
 .Testimonials-card-person-description {
     color: #9aa5b1;
-    font-family: "Lucida Calligraphy";
+    font-family: "Times New Roman";
     font-size: 32px;
     font-weight: 500;
 }
@@ -282,7 +282,7 @@ body {
 
 .Testimonials-card-person-name {
     color: #ffffff;
-    font-family: "Lucida Calligraphy";
+    font-family: "Times New Roman";
     font-size: 32px;
     font-weight: 500;
 }
@@ -299,14 +299,14 @@ body {
 
 .footer-section-name {
     color: #cced00;
-    font-family: "Lucida Calligraphy";
+    font-family: "Times New Roman";
     font-size: 20px;
     font-weight: bold;
 }
 
 .designation {
     color: #9aa5b1;
-    font-family: "Lucida Calligraphy";
+    font-family: "Times New Roman";
     font-size: 20px;
     font-weight: bold;
 }
@@ -318,7 +318,7 @@ body {
 
 .footer-section-deatails {
     color: #9aa5b1;
-    font-family: "Lucida Calligraphy";
+    font-family: "Times New Roman";
     font-size: 15px;
     font-weight: 500;
 }
